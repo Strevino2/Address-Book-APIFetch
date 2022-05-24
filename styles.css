@@ -1,0 +1,36 @@
+body {
+    display: flex;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 10px;
+}
+
+h4 {
+    font-size: 18px;
+    margin: 10px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+img {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    /* max-width: 500px; */
+}
+
+li {
+    padding: 20px;
+}
+
+/* div {
+    max-width: 500px;
+} */
